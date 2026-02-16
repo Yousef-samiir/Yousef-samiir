@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yousef_samiir</h1>
 <h3 align="center">🤖 AI Engineer passionate about building intelligent systems and turning data into impactful solutions. 🧠 Experienced in Machine Learning, Deep Learning, and NLP with a strong focus on model development. ⚙️ Skilled in Python, TensorFlow, PyTorch, and deploying scalable AI solutions. 🚀 Committed to continuous learning and creating innovative technologies that make a real-world impact</h3>
 
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyx1oUrce2Prr5ouULZZxSnUYtjVkJZcnNLw&s">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousef-samiir&label=Profile%20views&color=0e75b6&style=flat" alt="yousef-samiir" /> </p>
 
 - 💬 Ask me about **Ai Engineer**
